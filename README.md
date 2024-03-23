@@ -4,7 +4,9 @@
 
 **Summary**:
 - *Tên Đề Tài*: Phân cụm khách hàng sử dụng thẻ tín dụng bằng giải thuật BIRCH
-- *Mục Tiêu*: Tìm hiểu về giải thuật phân cụm BIRCH và áp dụng để phâm cụm khách hàng sử dụng thẻ tín dụng. Đánh giá giải thuật bằng các chỉ số như DB index, CH index và Silhouette score. 
+- *Mục Tiêu*: Tìm hiểu về giải thuật phân cụm BIRCH và áp dụng để phâm cụm khách hàng sử dụng thẻ tín dụng. Đánh giá giải thuật bằng các chỉ số như DB index, CH index và Silhouette score.
+- *File*: Representation, Document, SourceCode, Dataset.
+- *Ngôn Ngữ*: Python.
 
 **Credit**:
 1. Lý Gia Thuận - MSSV: 31211026754  
